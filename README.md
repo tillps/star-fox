@@ -9,7 +9,7 @@ how to start the game
 2. go to ur files and right click to extract 
 
 
-3. double click on fox.py and enjoy 
+3. double click on main.py and enjoy 
 
 
 4. u may need to download pygame on ur terminal if u havent yet
